@@ -1,2 +1,2 @@
-# Inf1060
-# Inf1060
+# Filer brukt i inf1060 - introduksjon til operativsystemer og datakommunikasjon
+
